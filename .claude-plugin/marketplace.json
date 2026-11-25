@@ -1,0 +1,29 @@
+{
+  "name": "formularios-diligencias-de-ordenacion-civiles",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Diligencias de ordenación y de constancia del proceso civil · España (146 formularios). Modelos de las diligencias que extiende el Letrado de la Administración de Justicia en el proceso civil: de ordenación (traslados, citaciones, señalamientos, impulso del procedimiento) y de constancia, comunicación y ejecución. Útil para LAJ, tramitadores, opositores y para anticipar lo que acuerda el tribunal. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-diligencias-de-ordenacion-civiles",
+      "source": "./",
+      "description": "Diligencias de ordenación y de constancia del proceso civil · España (146 formularios). Modelos de las diligencias que extiende el Letrado de la Administración de Justicia en el proceso civil: de ordenación (traslados, citaciones, señalamientos, impulso del procedimiento) y de constancia, comunicación y ejecución. Útil para LAJ, tramitadores, opositores y para anticipar lo que acuerda el tribunal. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "resoluciones-judiciales"
+      ]
+    }
+  ]
+}
